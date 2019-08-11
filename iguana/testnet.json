@@ -10,7 +10,8 @@
     "174.94.134.49",
     "172.104.151.177",
     "51.38.82.175",
-    "195.201.165.47"
+    "195.201.165.47",
+    "82.165.156.147"
   ],
   "notaries": [
     {"Alright": "029d8f4f5e39d63aaae51016654c62c7d68552ec0b056f9417e9e4c4e0aeddf7d2"},
@@ -45,6 +46,7 @@
     {"komodopioneers": "0275c57fa78049f54e104a421f3a2c2385b411d3cdd6101540aad516e94c0d2d94"},
     {"cakeshop": "02527cf0e014ed0f6f205efdca663c9a2071a0961574d093fbb050a9ff00c45a1f" },
     {"mylotest1": "024edf5c4b2d7d45c40bbad404ece9c470080d8d0c466a62b936bdf93cc1c01c15" },
-    {"mylotest2": "03e6ba8a4bbfc0ed4c819105cb4271fcd3e695cda7ea14e34a3d1fa0739cb0a3d0" }
+    {"mylotest2": "03e6ba8a4bbfc0ed4c819105cb4271fcd3e695cda7ea14e34a3d1fa0739cb0a3d0" },
+    {"dandysandy": "0317171af94ffa13f2fcd04095664ae036bb89cddae9168996f2e5de5ea115e4b7" }
   ]
 }
